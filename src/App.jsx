@@ -40,10 +40,10 @@ const App = () => {
 
         </div>
 
-        <footer class="clean-footer">
-          <div class="footer-grid">
+        <footer className="clean-footer">
+          <div className="footer-grid">
 
-            <div class="footer-section links">
+            <div className="footer-section links">
               <h3>Pages</h3>
               <ul>
                 <li><a href="/Home">Home</a></li>
@@ -52,23 +52,23 @@ const App = () => {
               </ul>
             </div>
 
-            <div class="footer-section contact">
+            <div className="footer-section contact">
               <h3>Contact Info</h3>
               <p>Email: amurodjon857@example.com</p>
               <p>Phone: +998 94 385 73 55</p>
               <p>Location: Andijon, Uzbekistan</p>
             </div>
 
-            <div class="footer-section social">
+            <div className="footer-section social">
               <h3>Follow Me</h3>
-              <ul class="social-list">
+              <ul className="social-list">
                 <li><a href="https://www.instagram.com/abdusalomovv_.7?igsh=MXJtdWtxbW91OGQ3"><i class="fab fa-linkedin"></i> Instagram</a></li>
                 <li><a href="ttps://t.me/FrontEnd_developer_7"><i class="fab fa-telegram"></i> Telegram</a></li>
               </ul>
             </div>
           </div>
 
-          <div class="footer-bottom">
+          <div className="footer-bottom">
             <p>&copy; 2025 Murodjon — Designed & Built by You. All rights reserved.</p>
           </div>
         </footer>

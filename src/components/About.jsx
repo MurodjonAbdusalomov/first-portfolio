@@ -9,7 +9,7 @@ const About = () => {
 
 
       <div className='can'>
-        <div class="its">
+        <div className="its">
 
           <h1>
             /
@@ -21,7 +21,7 @@ const About = () => {
 
         </div>
 
-        <div class="its">
+        <div className="its">
 
           <h1>
             *
@@ -34,7 +34,7 @@ const About = () => {
         </div>
 
 
-        <div class="its">
+        <div className="its">
 
           <h1>
             ?

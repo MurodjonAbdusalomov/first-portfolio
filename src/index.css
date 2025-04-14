@@ -311,7 +311,7 @@ nav img {
 
 .fff1 {
   width: 380px;
-  height: 220px;
+  height: 240px;
   border: 1px solid rgb(223, 222, 243);
   background-color: #11175074;
   border-radius: 7px;
@@ -328,11 +328,12 @@ nav img {
 }
 
 .fff1 a {
-  position: absolute;
+display: flex;
+justify-content: center;
   text-decoration: none;
-  color: #a6affc;
+  color: #00b3ff;
   font-size: 18px;
-  bottom: 0px;
+  position: relative; 
 }
 
 .fff1 a:hover {
@@ -536,6 +537,7 @@ nav img {
   .its,
   .fff1 {
     width: 90%;
+  
   }
 
   .about {
@@ -629,4 +631,26 @@ nav img {
   .boxes h3 {
     font-size: 17px;
   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.face {
+  width: 100%;
+  height: 206px;
+  padding: 16px;
+  border-radius: 5px;
+  flex-wrap: wrap;
 }
