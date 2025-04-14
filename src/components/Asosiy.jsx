@@ -22,7 +22,7 @@ const Asosiy = () => {
           <h4>A Developer Who</h4>
           <h1>
             Front-End Programmer , <br />
-            by its color  ! <br />
+            by its Web-site  ! <br />
           </h1>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
